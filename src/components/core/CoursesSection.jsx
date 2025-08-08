@@ -137,8 +137,8 @@ const CoursesSection = () => {
       ]
     },
     {
-      id: 'imersivos',
-      title: 'Cursos Imersivos',
+      id: 'medio',
+      title: 'Ensino Médio',
       icon: <Zap className="w-8 h-8" />,
       description: 'Mergulhe no conhecimento: cursos intensivos e práticos',
       color: 'from-yellow-500 to-orange-500',

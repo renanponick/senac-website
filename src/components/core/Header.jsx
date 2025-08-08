@@ -19,7 +19,7 @@ export default function Header() {
           <a href="#empresa" className="hover:text-orange-400 transition-colors">Para sua Empresa</a>
           <a href="#graduacao" className="hover:text-orange-400 transition-colors">Graduação</a>
           <a href="#tecnicos" className="hover:text-orange-400 transition-colors">Técnicos</a>
-          <a href="#imersivos" className="hover:text-orange-400 transition-colors">Cursos Imersivos</a>
+          <a href="#medio" className="hover:text-orange-400 transition-colors">Ensino Médio</a>
           <a href="#certificacoes" className="hover:text-orange-400 transition-colors">Certificações</a>
         </nav>
         
@@ -42,7 +42,7 @@ export default function Header() {
             <a href="#empresa" className="hover:text-orange-400 transition-colors">Para sua Empresa</a>
             <a href="#graduacao" className="hover:text-orange-400 transition-colors">Graduação</a>
             <a href="#tecnicos" className="hover:text-orange-400 transition-colors">Técnicos</a>
-            <a href="#imersivos" className="hover:text-orange-400 transition-colors">Cursos Imersivos</a>
+            <a href="#medio" className="hover:text-orange-400 transition-colors">Ensino Médio</a>
             <a href="#certificacoes" className="hover:text-orange-400 transition-colors">Certificações</a>
             <Button className="senac-gradient text-white hover:opacity-90 w-full">
               Fale Conosco

@@ -24,7 +24,7 @@ export default function Footer() {
             <ul className="space-y-2 text-muted-foreground">
               <li><a href="#" className="hover:text-orange-400 transition-colors">Graduação</a></li>
               <li><a href="#" className="hover:text-orange-400 transition-colors">Técnicos</a></li>
-              <li><a href="#" className="hover:text-orange-400 transition-colors">Imersivos</a></li>
+              <li><a href="#" className="hover:text-orange-400 transition-colors">medio</a></li>
               <li><a href="#" className="hover:text-orange-400 transition-colors">Certificações</a></li>
             </ul>
           </div>
