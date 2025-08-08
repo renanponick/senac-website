@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { motion } from 'framer-motion';
+import Logo from './assets/logo_senac_branco.svg';
 import { 
   Code, 
   Briefcase, 
@@ -26,7 +27,7 @@ const Header = () => {
     <header className="fixed top-0 w-full z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center space-x-2">
-          <img src="/logo_senac_branco.svg" alt="SENAC Logo" className="w-10 h-10" />
+          <img src={Logo} alt="SENAC Logo" className="w-10 h-10" />
           <span className="text-xl font-bold">SENAC Hub</span>
         </div>
         
